@@ -4,23 +4,23 @@
 
 # Git-Hosting #
 
-[Github](https://github.com/)
+[GitHub](https://github.com/)
 
-[Gitlab](https://gitlab.com/)
+[GitLab](https://gitlab.com/)
 
 [Bitbucket](https://bitbucket.org/)
 
 # PaaS #
 
+[Aws](https://aws.amazon.com/)
+
 [Heroku](https://www.heroku.com/ "SaleForce")
 
 [OpenShift](https://www.openshift.com/ "Redhat")
 
-[Aws](https://aws.amazon.com/)
-
 # Test-and-Deploy #
 
-[travis-ci](https://travis-ci.org/)
+[Travis-ci](https://travis-ci.org/)
 
 # 阿里云 #
 
